@@ -8,7 +8,6 @@ Berikut adalah repositori tugas akhir hasil kolaborasi antara mata kuliah Pemros
 ## 📂 **Struktur Direktori**
 ```plaintext
 ├── notebooks/            # Jupyter Notebook untuk eksplorasi dan eksperimen
-├── models/               # Model yang telah dilatih
 ├── README.md             # Dokumentasi proyek
 ```
 
